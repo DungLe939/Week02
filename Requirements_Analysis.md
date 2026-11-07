@@ -588,7 +588,7 @@ Nội dung lưu phản ánh thời điểm thu thập/cập nhật, có thể kh
 
 #### c. Job Matching & Skill Gap
 
-![Sơ đồ Use Case](./images/Job_Matching_Use_Case.png)
+![Sơ đồ Use Case](./images/Job_Matching_Use_Case.jpg)
 
 #### d. Job Tracking
 
